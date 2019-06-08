@@ -44,7 +44,9 @@
       "@vue/airbnb",
       "@vue/typescript"
     ],
-    "rules": {},
+    "rules": {
+      "linebreak-style": ["error", "windows"]
+    },
     "parserOptions": {
       "parser": "@typescript-eslint/parser"
     }
