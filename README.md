@@ -18,7 +18,7 @@ I work in Windows 10 so, I added this rule in **eslintConfig**
 ## Milestones (according to my motivation and my availability)
 
 - [x] Display a list of books
-- [ ] Fix ESlint warning :stuck_out_tongue:
+- [x] Fix ESlint warning :stuck_out_tongue:
 - [ ] Call API like Goodreads, Google Book APIs
 - [ ] Setup Jest
 - [ ] ...
